@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395383260351",
+    "project_id": "mosambi-india",
+    "storage_bucket": "mosambi-india.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395383260351:android:2f5cfe33f1b50bc573b20a",
+        "android_client_info": {
+          "package_name": "com.ecommerce.mosambi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395383260351-hssv1vo9aonvrvd80p1un22u1dpa6i9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ksTUwfjjJ07dw-d6HwMVX-7hpOE4-u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395383260351-hssv1vo9aonvrvd80p1un22u1dpa6i9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
